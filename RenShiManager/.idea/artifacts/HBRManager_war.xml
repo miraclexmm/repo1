@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="HBRManager:war">
-    <output-path>$PROJECT_DIR$/../HBRManager/target</output-path>
-    <root id="archive" name="HBRManager-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="HBRManager:war exploded" />
-    </root>
-  </artifact>
-</component>
