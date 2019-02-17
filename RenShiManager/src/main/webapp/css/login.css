@@ -1,0 +1,36 @@
+#big{
+	width: 300px;
+	height: 300px;
+	margin: 100px auto;
+}
+#title{
+	width: 300px;
+	text-align: center;
+}
+#error{
+	text-align:center;
+	color:red;
+}
+
+#form{
+	width: 300px;
+}
+.login_item{
+	width:200px;
+	margin:10px auto;
+}
+.login_item input{
+	height: 30px;
+}
+#submit{
+	width:200px;
+	margin:10px auto;
+}
+#submit input{
+	height: 30px;
+}
+#remark{
+	width:1000px;
+	margin:0 auto;
+	text-align: center;
+}
